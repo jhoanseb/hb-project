@@ -2,7 +2,7 @@ Hello!
 
 I share with you my solution to the problem.
 
-To run it you have to run both projects, the backend and the frontend at the same time.
+To run it you have to run both projects, the backend (`server`) and the frontend (`client-app`) at the same time.
 
 `npm run dev`
 
